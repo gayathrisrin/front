@@ -14,8 +14,9 @@ In this project i have #home
 ![PRECAUSTION](https://user-images.githubusercontent.com/88303467/130074905-46e3ab35-0840-43d2-9ee3-0383bc5e7836.png)
 ![CONTACT PAGE (2)](https://user-images.githubusercontent.com/88303467/130074941-0f76baed-48dc-45ac-a90a-96c62221e28e.png)
 ![DOCTOR](https://user-images.githubusercontent.com/88303467/130075000-15ac7261-4ff8-4b9a-a9f9-4cf02fe1cb6f.png)
-![LOGIN PAGE](https://user-images.githubusercontent.com/88303467/130075078-8097897c-c2a0-4079-b535-8f9a7b26b209.png)
-![REGISTER PAGE](https://user-images.githubusercontent.com/88303467/130075096-ccd5ddbe-c575-4eff-9280-161aaa4869a4.png)
+![Sign-up](https://user-images.githubusercontent.com/88303467/130082085-86141e31-83d4-4fa1-8f72-40934c90b65e.png)
+![Register](https://user-images.githubusercontent.com/88303467/130082250-eb4c55d8-4638-4f24-b0bd-939a3008a5a9.png)
+
 ![HOME PAGE](https://user-images.githubusercontent.com/88303467/130074694-1c99bee5-96a1-4b7b-92b4-b803b758bbb2.png)
 ![PREVENT PAGE](https://user-images.githubusercontent.com/88303467/130074724-1ac31b7e-43f9-498a-a743-e66ce99d1226.png)
 
